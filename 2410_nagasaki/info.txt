@@ -8,3 +8,9 @@
 {"url": "https://shibakichi-taro.github.io/page_assets/2410_nagasaki/wc_202410261440.png", "createdAt": "2024-10-26T14:40:39Z", "numMessage": 92}
 {"url": "https://shibakichi-taro.github.io/page_assets/2410_nagasaki/wc_202410261455.png", "createdAt": "2024-10-26T14:55:01Z", "numMessage": 96}
 {"url": "https://shibakichi-taro.github.io/page_assets/2410_nagasaki/wc_202410261509.png", "createdAt": "2024-10-26T15:09:45Z", "numMessage": 101}
+{"url": "https://shibakichi-taro.github.io/page_assets/2410_nagasaki/wc_202410261533.png", "createdAt": "2024-10-26T15:33:40Z", "numMessage": 102}
+{"url": "https://shibakichi-taro.github.io/page_assets/2410_nagasaki/wc_202410261559.png", "createdAt": "2024-10-26T15:59:22Z", "numMessage": 106}
+{"url": "https://shibakichi-taro.github.io/page_assets/2410_nagasaki/wc_202410261606.png", "createdAt": "2024-10-26T16:06:30Z", "numMessage": 109}
+{"url": "https://shibakichi-taro.github.io/page_assets/2410_nagasaki/wc_202410261607.png", "createdAt": "2024-10-26T16:07:04Z", "numMessage": 109}
+{"url": "https://shibakichi-taro.github.io/page_assets/2410_nagasaki/wc_202410261608.png", "createdAt": "2024-10-26T16:08:11Z", "numMessage": 109}
+{"url": "https://shibakichi-taro.github.io/page_assets/2410_nagasaki/wc_202410261609.png", "createdAt": "2024-10-26T16:09:30Z", "numMessage": 110}
